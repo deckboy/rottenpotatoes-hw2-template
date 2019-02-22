@@ -1,0 +1,2 @@
+Github			https://github.com/deckboy/rottenpotatoes-hw2-template
+Heroku 			https://desolate-plains-28847.herokuapp.com
